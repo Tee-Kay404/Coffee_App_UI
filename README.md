@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # coffee_app
 
 A clean and responsive UI built with Flutter, featuring intuitive layout, smooth interactions, and adaptive design elements that enhance the user experience across platforms.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Coffee_App_UI
+>>>>>>> e7caa488fb24649890896e0e3b54302ed3ce9639
